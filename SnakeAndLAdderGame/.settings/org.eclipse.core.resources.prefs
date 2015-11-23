@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/neeraj/game/snakeandladder/common/exception/SnakeAndLadderException.java=UTF-8
+encoding//src/com/neeraj/game/snakeandladder/common/exception/SnakeAndLadderExceptionConstants.java=UTF-8
+encoding//src/com/neeraj/game/snakeandladder/gui/controller/SnakeAndLadderController.java=UTF-8
+encoding//src/com/neeraj/game/snakeandladder/gui/model/SnakeAndLadderModel.java=UTF-8
+encoding//src/com/neeraj/game/snakeandladder/gui/view/BoardPanel.java=UTF-8
+encoding//src/com/neeraj/game/snakeandladder/gui/view/SnakeAndLadderView.java=UTF-8
+encoding//src/com/neeraj/game/snakeandladder/gui/view/SquarePanel.java=UTF-8
